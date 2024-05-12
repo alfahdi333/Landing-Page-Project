@@ -1,5 +1,5 @@
 # Landing Page Project
-this is readme for the landing page project.
+
 
 ## Usage Instructions
 - download the project 
